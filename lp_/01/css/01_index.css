@@ -238,7 +238,7 @@
 	.compare-label {
 		display: flex;
 		justify-content: space-between;
-		font-size: 14px;
+		font-size: 0.875rem;
 		margin-bottom: 6px;
 		font-weight: 500;
 	}
@@ -297,7 +297,7 @@
 		color: var(--primary);
 	}
 	.tip-card dd {
-		font-size: 14px;
+		font-size: 0.875rem;
 		margin: 0;
 		color: var(--text-muted);
 	}
@@ -430,7 +430,7 @@
 		text-align: center;
 		text-decoration: none;
 		font-weight: 700;
-		font-size: 14px;
+		font-size: 0.875rem;
 		padding: 12px;
 		border-radius: 8px;
 		transition: background 0.2s;
@@ -520,7 +520,7 @@
 		box-shadow: 0 12px 36px rgba(244,132,95,0.5);
 	}
 	.cta-sub-link {
-		font-size: 14px;
+		font-size: 0.875rem;
 		color: var(--primary);
 		text-decoration: underline;
 	}
