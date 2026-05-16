@@ -115,7 +115,7 @@
 		background: var(--primary);
 		color: #fff;
 		font-weight: 700;
-		font-size: 17px;
+		font-size: 1.063rem;
 		padding: 18px 48px;
 		border-radius: 50px;
 		text-decoration: none;
@@ -128,7 +128,7 @@
 		box-shadow: 0 10px 32px rgba(244,132,95,0.55);
 	}
 	.cta-note {
-		font-size: 12px;
+		font-size: 0.813rem;
 		opacity: 0.7;
 		margin-top: 12px;
 	}
@@ -149,7 +149,7 @@
 		display: inline-block;
 		background: var(--primary);
 		color: #fff;
-		font-size: 11px;
+		font-size: 0.813rem;
 		font-weight: 700;
 		padding: 3px 12px;
 		border-radius: 4px;
@@ -170,7 +170,7 @@
 	}
 	h3{
 		font-family:var(--serif);
-		font-size:18px;
+		font-size:1.125rem;
 		margin:24px 0 12px;
 		color:var(--primary);
 	}
@@ -179,7 +179,7 @@
 		color: #333;
 	}
 	.annotation{
-		font-size:13px;
+		font-size:0.813rem;
 		color:var(--text-muted);
 	}
 	.bnr_link img{
@@ -219,12 +219,12 @@
 		display: flex;
 		align-items: center;
 		gap: 12px;
-		font-size: 15px;
+		font-size: 0.938rem;
 	}
 	.symptom-list li:last-child { border-bottom: none; }
 	.symptom-list li::before {
 		content: '⚠️';
-		font-size: 18px;
+		font-size: 1.125rem;
 		flex-shrink: 0;
 	}
 
@@ -254,7 +254,7 @@
 		display: flex;
 		align-items: center;
 		padding-left: 12px;
-		font-size: 13px;
+		font-size: 0.813rem;
 		font-weight: 700;
 		color: #fff;
 		animation: barGrow 1.2s ease-out forwards;
@@ -286,7 +286,7 @@
 		box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 	}
 	.tip-icon {
-		font-size: 32px;
+		font-size: 2rem;
 		margin-bottom: 12px;
 	}
 	.tip-card dt {
@@ -314,7 +314,7 @@
 	.experience-box::before {
 		content: '✍️ 筆者の体験談';
 		display: block;
-		font-size: 12px;
+		font-size: 0.813rem;
 		font-weight: 700;
 		color: var(--primary);
 		letter-spacing: 0.08em;
@@ -326,7 +326,7 @@
 		margin-bottom: 16px;
 	}
 	.experience-box p {
-		font-size: 15px;
+		font-size: 1rem;
 		line-height: 1.9;
 		color: #333;
 	}
@@ -507,7 +507,7 @@
 		background: var(--primary);
 		color: #fff;
 		font-weight: 700;
-		font-size: 18px;
+		font-size: 1.125rem;
 		padding: 20px 56px;
 		border-radius: 50px;
 		text-decoration: none;
@@ -531,7 +531,7 @@
 		color: rgba(255,255,255,0.5);
 		text-align: center;
 		padding: 28px 20px;
-		font-size: 12px;
+		font-size: 0.813rem;
 		line-height: 1.8;
 	}
 	footer p{
@@ -548,13 +548,13 @@
 		color: var(--border);
 		letter-spacing: 0.2em;
 		padding: 8px 0;
-		font-size: 20px;
+		font-size: 1.25rem;
 	}
 
 	/* ===== RESPONSIVE ===== */
 	@media (max-width: 600px) {
 		.experience-box { padding: 24px 20px 24px 24px; }
-		.cta-btn-large { padding: 18px 36px; font-size: 16px; }
+		.cta-btn-large { padding: 18px 36px; font-size: 1rem; }
 	}
 
 	@media (max-width: 473px) {
