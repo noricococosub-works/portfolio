@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+	:root {
+	--primary: #940f00;
+	--primary-light: #52b788;
+	--accent-green: #2d6a4f;
+	--bg: #fdfaf6;
+	--bg-section: #f0ede6;
+	--text: #000;
+	--text-accent: #567383;
+	--text-muted: #666;
+	--border: #ddd5c8;
+	--serif: 'Noto Serif JP', serif;
+	--sans: 'Noto Sans JP', sans-serif;
+	}
